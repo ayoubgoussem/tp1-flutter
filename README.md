@@ -44,13 +44,13 @@ L’application se compose de trois écrans principaux :
 _(Exemples à adapter avec tes vrais fichiers)_
 
 - Page de profil  
-  ![Profil](screenshots/1.png)
+  <img src="screenshots/1.png" alt="Profil" width="250"/>
 
 - Page de quizz  
-  ![Quizz](screenshots/2.png)
+  <img src="screenshots/2.png" alt="Quizz" width="250"/>
 
 - Page de récapitulatif  
-  ![Récapitulatif](screenshots/7.png)
+  <img src="screenshots/7.png" alt="Récapitulatif" width="250"/>
 
 --
 
